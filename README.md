@@ -1,2 +1,2 @@
 # PCBs
-A collection of my PCBs
+A collection of PCBs I have designed!
